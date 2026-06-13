@@ -2,6 +2,6 @@ package Arrays;
 
 public class TwoSum {
     public static void main(String[] args) {
-        System.out.println("Starting DSA");
+        System.out.println("Starting DSA!!");
     }
 }
